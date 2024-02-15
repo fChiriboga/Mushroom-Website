@@ -7,10 +7,10 @@ This website will be used to create a database on the mushrooms in Gainesville, 
 
 ## Solution Architecture Diagram
 
-![alt text](Images./Solution%20Architecture%20Diagram.png "Solution Architecture Diagram")
+![alt text](Images/Solution Architecture Diagram.png "Solution Architecture Diagram")
 
 ## Wireframe Diagrams
-https://github.com/fChiriboga/Mushroom-Website/tree/Images
+
 
 ## User Stories
 
