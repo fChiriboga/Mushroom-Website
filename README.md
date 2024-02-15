@@ -10,7 +10,7 @@ This website will be used to create a database on the mushrooms in Gainesville, 
 ![alt text](Images/Solution Architecture Diagram.png "Solution Architecture Diagram")
 
 ## Wireframe Diagrams
-Images/Home Page.png
+Images/HomePage.png
 
 ## User Stories
 
