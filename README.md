@@ -35,3 +35,32 @@ So that I can know the difference between each type of mushroom cap.
 As a mushroom hunter
 I want to know some common terminology used
 So that I can better understand certain terms.
+
+## Initial Use Cases
+
+1. **Use Case for Understanding Mushroom Anatomy:**
+   - **Actor:** Beginner Mushroom Hunter
+   - **Scenario:** The beginner mushroom hunter wants to know the different parts of mushrooms.
+   - **Result:**  They go to the Mushroom Anatomy page and see the anatomy of a mushroom and what each part does.
+
+2. **Use Case for Posting Images:**
+   - **Actor:** Blogger
+   - **Scenario:** 
+   - **Result:**
+
+3. **Use Case for Avoiding Harmful Mushrooms:**
+   - **Actor:** Mushroom Hunter
+   - **Scenario:**
+   - **Result:**
+  
+4. **Use Case for Learning About Different Cap Shapes:**
+   - **Actor:** Mushroom Hunter
+   - **Scenario:**
+   - **Result:**
+
+5. **Use Case for Learning Common Terminology:**
+   - **Actor:** Mushroom Hunter
+   - **Scenario:**
+   - **Result:**
+
+## Use Case Diagram
