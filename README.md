@@ -45,22 +45,33 @@ So that I can better understand certain terms.
 
 2. **Use Case for Posting Images:**
    - **Actor:** Blogger
-   - **Scenario:** 
-   - **Result:**
+   - **Scenario:** The blogger wants to post photos of their mushrooms.
+   - **Result:** The blogger goes to the user page (third page) and adds their photos to the page.
 
 3. **Use Case for Avoiding Harmful Mushrooms:**
    - **Actor:** Mushroom Hunter
-   - **Scenario:**
-   - **Result:**
+   - **Scenario:** The mushroom hunter wants to avoid mixing up edible mushrooms with harmful look-a-likes.
+   - **Result:** On the home page, the mushroom hunter finds a list of look-a-likes to avoid.
   
 4. **Use Case for Learning About Different Cap Shapes:**
    - **Actor:** Mushroom Hunter
-   - **Scenario:**
-   - **Result:**
+   - **Scenario:** The mushroom hunter wants to learn about different cap shapes.
+   - **Result:** Going to the Mushroom Anatomy page (page 2), they will find a link to learn about the different cap shapes.
 
 5. **Use Case for Learning Common Terminology:**
    - **Actor:** Mushroom Hunter
-   - **Scenario:**
-   - **Result:**
+   - **Scenario:** The mushroom hunter wants to know common terminology used when learning about mushrooms.
+   - **Result:** On the home page in the navigation bar, they click the link to the Glossary of Terms page where common terminology will be located.
 
 ## Use Case Diagram
+
+## Project Requirements Table
+
+|ID|Requirement|
+|---|---|
+|1|hfhf|
+|2|hfhfgh|
+|3|htfh|
+|4|htfhf|
+|5|htrhhd|
+|6|ngfnfn|
