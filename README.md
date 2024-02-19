@@ -70,7 +70,7 @@ So that I can better understand certain terms.
 |ID| Requirement                                                                                        | Testable |
 |--|----------------------------------------------------------------------------------------------------|----------|
 |1 | The website shall have multiple pages and one of them will have information on the anatomy of mushrooms.| Yes |
-|2 | The website shall | Yes |
-|3 | The website shall | Yes |
-|4 | The website shall | Yes |
-|5 | The website shall | Yes |
+|2 | The website shall allow users to post images and add the location of those images.| Yes |
+|3 | The website shall provide information on dangerous look-a-likes.| Yes |
+|4 | The website shall allow users to navigate to different cap shapes of a mushroom.| Yes |
+|5 | The website shall allow users to be able to go to a Glossary of Terms.| Yes |
