@@ -67,10 +67,10 @@ So that I can better understand certain terms.
 
 ## Project Requirements Table
 
-|ID|Requirement|
-|---|---|
-|1|The software shall |
-|2|The software shall |
-|3|The software shall |
-|4|The software shall |
-|5|The software shall |
+|ID| Requirement                                         | Testable |
+|--|-----------------------------------------------------|----------|
+|1 | The software shall| Yes |
+|2 | The software shall | Yes |
+|3 | The software shall | Yes |
+|4 | The software shall | Yes |
+|5 | The software shall | Yes |
