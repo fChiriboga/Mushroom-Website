@@ -65,7 +65,7 @@ So that I can better understand certain terms.
 
 ## Use Case Diagram
 
-![alt text](ImagesUseCaseDiagram.png "Use Case Diagram")
+![alt text](Images/UseCaseDiagram.png "Use Case Diagram")
 
 ## Project Requirements Table
 
