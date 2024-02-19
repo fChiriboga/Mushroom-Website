@@ -67,10 +67,10 @@ So that I can better understand certain terms.
 
 ## Project Requirements Table
 
-|ID| Requirement                                         | Testable |
-|--|-----------------------------------------------------|----------|
-|1 | The software shall| Yes |
-|2 | The software shall | Yes |
-|3 | The software shall | Yes |
-|4 | The software shall | Yes |
-|5 | The software shall | Yes |
+|ID| Requirement                                                                                        | Testable |
+|--|----------------------------------------------------------------------------------------------------|----------|
+|1 | The website shall have multiple pages and one of them will have information on the anatomy of mushrooms.| Yes |
+|2 | The website shall | Yes |
+|3 | The website shall | Yes |
+|4 | The website shall | Yes |
+|5 | The website shall | Yes |
