@@ -69,9 +69,8 @@ So that I can better understand certain terms.
 
 |ID|Requirement|
 |---|---|
-|1|hfhf|
-|2|hfhfgh|
-|3|htfh|
-|4|htfhf|
-|5|htrhhd|
-|6|ngfnfn|
+|1|The software shall |
+|2|The software shall |
+|3|The software shall |
+|4|The software shall |
+|5|The software shall |
