@@ -14,6 +14,9 @@ Table of Contents:
 
 This website will be used to create a database on the mushrooms in Gainesville, Florida to help beginner foragers to identify and to learn about the different components of mushrooms. This will be for educational purposes only. There will be information on the anatomy of mushrooms and will show the differences for each part. The database will have components to help the user rule out possibilities by having the user specify the characteristics of the unidentified mushroom. There will also be a list of common edibles and their dangerous look-alikes. The website will also allow users to upload their photos of mushrooms and where they are found. Mushroom hunting can be an enjoyable experience and should be shared among others. This website will help the Gainesville community to increase knowledge of our backyard while maintaining safe practices to avoid unwanted outcomes.
 
+Update:
+I added a fourth page that will include the best times to forage for each type of mushroom each month. The user will be able to either choose a specific mushroom and will see the month(s) that particular mushroom will grow, or they can choose a specific month and a list of mushrooms that are grown within that month will be shown.
+
 ## Solution Architecture Diagram
 
 ![alt text](Images/SolutionArchitectureDiagram.png "Solution Architecture Diagram")
@@ -22,6 +25,7 @@ This website will be used to create a database on the mushrooms in Gainesville, 
 ![alt text](Images/HomePage.png "Home Page")
 ![alt text](Images/Page2.png "Page 2")
 ![alt text](Images/Page3.png "Page 3")
+![alt text]("Images/MonthlyMushrooms.png")
 
 ## User Stories
 
