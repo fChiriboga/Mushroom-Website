@@ -25,7 +25,7 @@ I added a fourth page that will include the best times to forage for each type o
 ![alt text](Images/HomePage.png "Home Page")
 ![alt text](Images/Page2.png "Page 2")
 ![alt text](Images/Page3.png "Page 3")
-![alt text]("Images/MonthlyMushrooms.png")
+![alt text](Images/MonthlyMushrooms.png "Page 4")
 
 ## User Stories
 
