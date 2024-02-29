@@ -2,13 +2,13 @@
 Website about the mushrooms in Gainesville, Fl
 
 Table of Contents:
-[Overview](https://github.com/fChiriboga/Mushroom-Website/blob/main/README.md#overview)
-[Solution Architecture Diagram](https://github.com/fChiriboga/Mushroom-Website/blob/main/README.md#solution-architecture-diagram)
-[Wireframe Diagrams](https://github.com/fChiriboga/Mushroom-Website/blob/main/README.md#wireframe-diagrams)
-[User Stories](https://github.com/fChiriboga/Mushroom-Website/blob/main/README.md#user-stories)
-[Initial Use Cases](https://github.com/fChiriboga/Mushroom-Website/blob/main/README.md#initial-use-cases)
-[Use Case Diagram](https://github.com/fChiriboga/Mushroom-Website/blob/main/README.md#use-case-diagram)
-[Project Requirements Table](https://github.com/fChiriboga/Mushroom-Website/blob/main/README.md#project-requirements-table)
+- [Overview](https://github.com/fChiriboga/Mushroom-Website/blob/main/README.md#overview)
+- [Solution Architecture Diagram](https://github.com/fChiriboga/Mushroom-Website/blob/main/README.md#solution-architecture-diagram)
+- [Wireframe Diagrams](https://github.com/fChiriboga/Mushroom-Website/blob/main/README.md#wireframe-diagrams)
+- [User Stories](https://github.com/fChiriboga/Mushroom-Website/blob/main/README.md#user-stories)
+- [Initial Use Cases](https://github.com/fChiriboga/Mushroom-Website/blob/main/README.md#initial-use-cases)
+- [Use Case Diagram](https://github.com/fChiriboga/Mushroom-Website/blob/main/README.md#use-case-diagram)
+- [Project Requirements Table](https://github.com/fChiriboga/Mushroom-Website/blob/main/README.md#project-requirements-table)
 
 ## Overview
 
