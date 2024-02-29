@@ -1,6 +1,15 @@
 # Mushroom-Website
 Website about the mushrooms in Gainesville, Fl
 
+Table of Contents:
+[Overview](https://github.com/fChiriboga/Mushroom-Website/blob/main/README.md#overview)
+[Solution Architecture Diagram](https://github.com/fChiriboga/Mushroom-Website/blob/main/README.md#solution-architecture-diagram)
+[Wireframe Diagrams](https://github.com/fChiriboga/Mushroom-Website/blob/main/README.md#wireframe-diagrams)
+[User Stories](https://github.com/fChiriboga/Mushroom-Website/blob/main/README.md#user-stories)
+[Initial Use Cases](https://github.com/fChiriboga/Mushroom-Website/blob/main/README.md#initial-use-cases)
+[Use Case Diagram](https://github.com/fChiriboga/Mushroom-Website/blob/main/README.md#use-case-diagram)
+[Project Requirements Table](https://github.com/fChiriboga/Mushroom-Website/blob/main/README.md#project-requirements-table)
+
 ## Overview
 
 This website will be used to create a database on the mushrooms in Gainesville, Florida to help beginner foragers to identify and to learn about the different components of mushrooms. This will be for educational purposes only. There will be information on the anatomy of mushrooms and will show the differences for each part. The database will have components to help the user rule out possibilities by having the user specify the characteristics of the unidentified mushroom. There will also be a list of common edibles and their dangerous look-alikes. The website will also allow users to upload their photos of mushrooms and where they are found. Mushroom hunting can be an enjoyable experience and should be shared among others. This website will help the Gainesville community to increase knowledge of our backyard while maintaining safe practices to avoid unwanted outcomes.
