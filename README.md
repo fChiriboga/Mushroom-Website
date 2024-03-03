@@ -89,3 +89,11 @@ So that I can better understand certain terms.
 |3 | The website shall provide information on dangerous look-a-likes.| Yes |
 |4 | The website shall allow users to navigate to different cap shapes of a mushroom.| Yes |
 |5 | The website shall allow users to be able to go to a Glossary of Terms.| Yes |
+
+## ERD
+
+![alt text](Images/ERD.png "ERD")
+
+## UML
+
+![alt text](Images/UML.png "UML")
