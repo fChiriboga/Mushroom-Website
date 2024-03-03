@@ -9,6 +9,8 @@ Table of Contents:
 - [Initial Use Cases](https://github.com/fChiriboga/Mushroom-Website/blob/main/README.md#initial-use-cases)
 - [Use Case Diagram](https://github.com/fChiriboga/Mushroom-Website/blob/main/README.md#use-case-diagram)
 - [Project Requirements Table](https://github.com/fChiriboga/Mushroom-Website/blob/main/README.md#project-requirements-table)
+- [ERD](https://github.com/fChiriboga/Mushroom-Website/blob/main/README.md#ERD)
+- [UML](https://github.com/fChiriboga/Mushroom-Website/blob/main/README.md#UML)
 
 ## Overview
 
