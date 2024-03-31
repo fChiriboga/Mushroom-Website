@@ -99,3 +99,7 @@ So that I can better understand certain terms.
 ## UML
 
 ![alt text](Images/UML.png "UML")
+
+##NewUser Model
+
+![alt text](Prototype/DAL/Images/Screenshot 2024-03-31 124502.png "NewUser Model")
