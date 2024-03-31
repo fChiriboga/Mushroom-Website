@@ -1,0 +1,28 @@
+namespace Spores.Models
+{
+    public class NewUser
+    {
+        public int UserId { get; set; }
+        public string FirstName { get; set; } = "";
+        public string LastName {  get; set; } = "";
+        public string Email { get; set; } = "";
+        public string Password { get; set; } = "";
+
+        public NewUser(int userId, string firstName, string lastName, string email, string password)
+        {
+            UserId = userId;
+            FirstName = firstName;
+            LastName = lastName;
+            Email = email;
+            Password = password;
+        }
+
+        public static List<NewUser> GetNewUser() => new List<NewUser>
+        {
+            new NewUser(1, "Adrian", "Monk", "AdrianMonk@yahoo.com", "Trudy"),
+            new NewUser(2, "Sharona", "Flemming", "SharonaFlemming@gmail.com", "Benji123"),
+            new NewUser(3, "Natalie", "Teeger", "NatalieTeeger@gmail.com", "Julie"),
+            new NewUser(4, "Randy", "Disher", "Randystheman@yahoo.com", "Randystheman")
+        };
+    }
+}
